@@ -7,7 +7,7 @@
 #   preserving media and database files.
 
 # Change these paths for your environment
-OLD_POOL="//mnt/HDDs/ix-volumes/ix-apps/app_mounts/immich"
+OLD_POOL="//mnt/HDDs/ix-volumes/app_mounts/immich"
 NEW_POOL="/mnt/HDDs/Applications/immich"
 
 echo ">>> Creating target directories..."
